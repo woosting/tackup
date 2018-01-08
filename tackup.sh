@@ -72,4 +72,3 @@
 # Echoing the date for referance purposes
 	date
 	echo " "
-
